@@ -2,6 +2,14 @@ __Db Name__
 shop
 __Db Tables__
 ## categories
++ id
++ name
++ description
++ parent
++ ordering
++ visibility
++ allow_comment
++ allow_ads
 
 ## comments
 + c_id	int(11) auto-increment
